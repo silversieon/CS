@@ -1,2 +1,2 @@
 # CS
-Computer Science
+Computer Science / CS study
