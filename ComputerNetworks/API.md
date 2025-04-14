@@ -35,4 +35,4 @@
 
 **Application Programming Interface**의 약자로, 소프트웨어 시스템 간의 상호작용(예: 통신, 데이터 주고받기 등)을 위해 **표준화된 규칙과 방식**을 의미합니다. API에는 다양한 종류가 있는데, 예를 들어 **REST API**, **라이브러리가 제공하는 내부 API** 등이 있습니다. 그중**REST API**는**REST 원칙**을 따르는 API로, 주로 **HTTP 기반의 통신**에서 사용됩니다. REST API는 자원(Resource)을**URI**로 표현하고, 해당 자원에 대한 작업은 **HTTP 메서드**(GET, POST, PUT, PATCH, DELETE 등)를 사용해 수행합니다. 그리고 자원의 표현 형식으로는 주로**JSON**이나**XML**같은 데이터 포맷이 사용됩니다.
 
-![alt text](images/image.png)
+![alt text](images/api.png)
