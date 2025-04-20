@@ -100,11 +100,11 @@ int main() {
 
 ## ✅파일 접근 권한 제어
 
-![image1.png](images/image1.png)
+![image1.png](../images/image1.png)
 
 - 파일 종류 검색
 
-![image2.png](images/image2.png)
+![image2.png](../images/image2.png)
 
 방식1 예제 :
 
@@ -139,7 +139,7 @@ int main() {
 }
 ```
 
-![image3.png](images/image3.png)
+![image3.png](../images/image3.png)
 
 방식2 (권장) 예제 :
 
@@ -167,7 +167,7 @@ int main() {
 
 - 파일 접근 권한 검색
 
-![image4.png](images/image4.png)
+![image4.png](../images/image4.png)
 
 예제 :
 

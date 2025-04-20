@@ -5,7 +5,7 @@
 - 일반 파일 : 텍스트나 바이너리 형태의 자료를 저장하는 파일
 - 특수 파일 : 데이터 전송 또는 장치 접근에 사용하는 파일
 
-![image5.png](images/image5.png)
+![image5.png](../images/image5.png)
 
 ## ✅저수준 파일 입출력
 
